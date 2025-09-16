@@ -34,7 +34,7 @@ El objetivo es demostrar cómo la integración de IA y *prompt engineering* pued
 ---
 
 ## 📊 Ejemplo de visualización
-![Ejemplo de gráfico de ventas](./grafico_ventas.png)
+![Ejemplo de gráfico de ventas](./reporte_de_ventas.png)
 
 ---
 
